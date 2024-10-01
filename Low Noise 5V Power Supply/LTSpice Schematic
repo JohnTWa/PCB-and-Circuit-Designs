@@ -63,13 +63,13 @@ SYMATTR InstName R3
 SYMATTR Value 10
 SYMBOL Misc\\EuropeanPolcap 240 -144 R0
 SYMATTR InstName C4
-SYMATTR Value 100µ
+SYMATTR Value 100Âµ
 SYMBOL Misc\\EuropeanCap 144 -144 R0
 SYMATTR InstName C1
-SYMATTR Value 10µ
+SYMATTR Value 10Âµ
 SYMBOL Misc\\EuropeanCap -336 -64 R0
 SYMATTR InstName C2
-SYMATTR Value 10µ
+SYMATTR Value 10Âµ
 SYMBOL zener 368 -80 R180
 WINDOW 0 -24 62 Left 2
 WINDOW 3 -92 0 Left 2
